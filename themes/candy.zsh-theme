@@ -9,5 +9,5 @@ PROMPT="
 %{$reset_color%}%{$fg[yellow]%}[%~]%{$reset_color%} \
 ${git_info}\
 
-%(?.%{$fg[green]%}.%{$fg[blue]%})%(?!(´∀｀∩ )↑ age↑ <!(A´∪%)↓ sage↓ $)%{${reset_color}%} \
+%(?.%{$fg[green]%}.%{$fg[blue]%})%(?!(´∀｀∩)↑age↑ <!(A´∪%)↓sage↓ $)%{${reset_color}%} \
 "
